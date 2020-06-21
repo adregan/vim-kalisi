@@ -17,7 +17,6 @@ endif
 
 " the default scheme is 'light'
 if &background == "dark"
-  hi clear
   let g:colors_name = "kalisi"
 
   hi Normal 	        guifg=#d0d0d0 guibg=#404042  gui=none
@@ -323,7 +322,6 @@ else
   """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
   " Light
   """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-  hi clear
   let g:colors_name = "kalisi"
 
   hi Normal           guifg=#000000 guibg=#f5f7f5 gui=NONE
