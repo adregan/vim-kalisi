@@ -404,7 +404,7 @@ else
   hi Visual                         guibg=#d0eeff gui=NONE
   hi VisualNOS                      guibg=#d8d8d8 gui=none
 
-  hi ColorColumn      ctermbg=239
+  hi ColorColumn      ctermbg=239   guibg=239
 
   hi Cursor           guifg=#ffffff guibg=#ff0000 gui=NONE
   hi CursorLineNr     guifg=#e0e0e0 guibg=#c9c4c4 gui=bold
